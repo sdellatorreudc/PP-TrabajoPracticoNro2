@@ -1,4 +1,4 @@
-package udc.pp.tp1.imperativo;
+package ar.edu.udc.pp.tp2.imperativo;
 
 public class ImperativoEnJava {
 	

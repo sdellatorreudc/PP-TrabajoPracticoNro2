@@ -1,4 +1,4 @@
-package udc.pp.tp1.imperativo.pruebas;
+package ar.edu.udc.pp.tp2.imperativo.pruebas;
 
 import static org.junit.Assert.*;
 
@@ -7,7 +7,7 @@ import java.util.Random;
 
 import org.junit.Test;
 
-import udc.pp.tp1.imperativo.ImperativoEnJava;
+import ar.edu.udc.pp.tp2.imperativo.ImperativoEnJava;
 
 public class PruebasImperativo {
 	

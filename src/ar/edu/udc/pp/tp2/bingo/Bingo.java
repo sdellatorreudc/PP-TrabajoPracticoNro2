@@ -1,4 +1,4 @@
-package udc.pp.tp1.bingo;
+package ar.edu.udc.pp.tp2.bingo;
 
 public class Bingo {
 	
